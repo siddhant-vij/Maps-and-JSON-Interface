@@ -1,0 +1,1 @@
+Build an application that writes a JSON from a mappable interface - following the Abstract Class Challenge (ppt).
